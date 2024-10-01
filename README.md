@@ -21,3 +21,7 @@ Este repositório contém links úteis e recursos que compilei para facilitar o 
 
 - 📧 Email: [Entre em contato através do e-mail](mailto:felipeacruz@outlook.com.br)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/felipeassiscruz/)
+
+ 
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=FelipeaCruz1&label=VISUALIZAÇÕES+DE+PERFIL)
+
